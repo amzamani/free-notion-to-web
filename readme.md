@@ -5,6 +5,7 @@
 > The perfect starter kit for building websites with Next.js and Notion.
 
 
+
 ## Intro
 
 I personally use this method to convert notion pages into websites
