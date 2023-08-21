@@ -14,7 +14,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ToffeeMoney Blog',
-  domain: 'https://blog.toffeemoney.com/',
+  domain: 'blog.toffeemoney.com/',
   author: 'Zamani Tech Ventures Pvt Ltd',
 
   // open graph metadata (optional)
