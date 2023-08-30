@@ -23,7 +23,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: 'https://www.linkedin.com/company/toffeemoney/',
+  linkedin: '/company/toffeemoney/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '@toffeemoney', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
