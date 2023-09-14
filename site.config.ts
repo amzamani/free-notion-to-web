@@ -6,7 +6,7 @@ export default siteConfig({
   // rootNotionPageId: '437a047a1dfb4932bf54c3772ed11849',
 
   // toffeeblog page
-  rootNotionPageId :'e9523f6a50ae4cb6b10131cba57a786b',
+  rootNotionPageId: 'e9523f6a50ae4cb6b10131cba57a786b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -18,12 +18,14 @@ export default siteConfig({
   author: 'Zamani Tech Ventures Pvt Ltd',
 
   // open graph metadata (optional)
-  description: 'ToffeeMoney Blog: Say hello to organised spending and savvy shopping',
+  description:
+    'ToffeeMoney Blog: Say hello to organised spending and savvy shopping',
 
   // social usernames (optional)
-  twitter: '',
-  github: '',
+  // twitter: '',
+  // github: '',
   linkedin: '/company/toffeemoney/',
+  instagram: '/toffeemoney/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '@toffeemoney', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
